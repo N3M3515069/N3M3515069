@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N3M3515069 and I want to become a full stack developer
+- 👋 Hi, I’m @N3M3515069 
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me discord n3m3sis4669
