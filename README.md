@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @N3M3515069 
-- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me discord n3m3sis4669
 - You can visit my profile on Codewars - https://www.codewars.com/users/Caped%20Baldy
