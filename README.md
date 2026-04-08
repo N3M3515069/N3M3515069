@@ -14,7 +14,7 @@
 
 **Languages:** Python, Java, SQL
 
-**AI/ML:** Sentence Transformers, FAISS, LangChain, Hugging Face, scikit-learn, PyTorch
+**AI/ML:** Sentence Transformers, FAISS, LangChain, Hugging Face, scikit-learn
 
 **Tools:** Git, Streamlit, Jupyter Notebook, VS Code
 
